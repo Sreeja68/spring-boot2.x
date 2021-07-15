@@ -9,7 +9,7 @@ public class QuestionNum10 {
 	public static void main(String[] args) {
 		int[] array = {1,7,3,5,9,3};
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter which size of number do you want to print from array");
+		System.out.println("Enter which size of number do you want to print from arrayB");
 		int i = s.nextInt();
 		
 		try {
